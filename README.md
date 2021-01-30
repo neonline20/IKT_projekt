@@ -1,6 +1,6 @@
 # IKT_projekt
 
-<<<<<<< HEAD
+
 #Hello!(Zita)
 =======
 # Hello mindenki.
