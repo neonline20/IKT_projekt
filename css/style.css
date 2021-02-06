@@ -1,6 +1,6 @@
 
 body {
-  background-image: url(/img/diy-tools.jpg);
+  background-image: url('../img/diy-tools.jpg');
   background-size: cover;
 }
 
@@ -26,4 +26,31 @@ body {
 h1 {
   font-family: 'Fredericka the Great', cursive;
   color: black;
+}
+
+.tarto{
+position: relative;
+  border:1px solid #ccc;
+  background-color: rgba(255,255,255,0.9);
+}
+
+h4{
+  margin-left: 15px;
+  font-size: 1.3em;
+}
+p{
+  margin-left: 15px;
+  
+}
+
+.karika{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+width: 60px;
+height: 60px;
+border-radius: 50%;
+border: 3px solid white;
+background-color: blue;
+box-shadow: 2px 2px #888;
 }
