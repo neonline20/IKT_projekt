@@ -1,10 +1,29 @@
-*{
-  box-sizing: border-box;
-}
 
 body {
-  overflow-y: hidden; /*Hide vertical scrollbar */
-  overflow-x: hidden; /* Hide horizontal scrollbar */
-  background-image: url("img/diy-tools.jpg");
+  background-image: url(/img/diy-tools.jpg);
+  background-size: cover;
 }
 
+#logo{
+  height: 2rem;
+}
+
+.navbar{
+  background-color: #476CB4;
+  color: black;
+}
+
+.middle-div{
+  width: 80vw;
+  height: 100vh;
+  margin: 0px auto;
+  background-color: #476CB4;
+  opacity: 0.3;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Fredericka the Great', cursive;
+  color: black;
+}
