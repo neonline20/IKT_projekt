@@ -18,7 +18,6 @@ body {
   width: 70vw;
   height: 100vh;
   margin: 0px auto;
-<<<<<<< HEAD
   background-color: rgba(255, 255, 255, 0.7);
   padding: 20px;
 }
@@ -29,43 +28,4 @@ body {
 
 .carousel {
   padding: 10px 0px;
-=======
-  background-color: rgba(71, 107, 179, 0.3);
-  text-align: center;
-  padding: 20px;
-}
-
-
-
-h1 {
-  font-family: 'Fredericka the Great', cursive;
-  color: black;
-}
-
-.tarto{
-position: relative;
-  border:1px solid #ccc;
-  background-color: rgba(255,255,255,0.9);
-}
-
-h4{
-  margin-left: 15px;
-  font-size: 1.3em;
-}
-p{
-  margin-left: 15px;
-  
-}
-
-.karika{
-  position: absolute;
-  top: 20px;
-  right: 20px;
-width: 60px;
-height: 60px;
-border-radius: 50%;
-border: 3px solid white;
-background-color: blue;
-box-shadow: 2px 2px #888;
->>>>>>> 92cedb2e885588438931373c1c140c63d43b5d28
 }
